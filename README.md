@@ -53,5 +53,3 @@ To use the Dodge AI Chat functionalities, set your [Google Gemini API Key](https
 $env:GEMINI_API_KEY="your_api_key_here"
 ```
 
-## 📸 Screenshots & Usage
-Launch your browser at `http://localhost:5173/`. You can click on specific nodes in the graph to automatically inspect their payload data in the Chat Interface, or just type a question to get AI-driven insights!
